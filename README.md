@@ -81,9 +81,10 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
-3. Explicação: <EXPLICACAO_AQUI>
+1. Repositório selecionado: https://github.com/ReactiveX/RxJava
+2. Gráfico selecionado: <img width="1516" height="865" alt="image" src="https://github.com/user-attachments/assets/9f50f37b-4faa-4459-8fec-9744f9c8c46a" />
 
+3. Explicação:
+  O gráfico apresenta a quantidade total de linhas de código do projeto RxJava entre 2021 e 2026. É possível observar que o crescimento foi bastante discreto ao longo do período, sendo mais expressivo entre 2021 e 2022. Nos anos seguintes, a quantidade de linhas se manteve relativamente constante, com pequenas variações. Esse comportamento pode indicar um certo nível de maturidade do projeto, demonstrando uma estabilidade em sua evolução, sem grandes expansões ou reduções na quantidade de código.
 
 
